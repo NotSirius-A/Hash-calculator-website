@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+
+<div class="background">
+    <div class="hash-calculator-content">
+        <form class="input-form" action="" method="get" autocomplete="off">
+            {{ input_form }}<br>
+            <input type="submit" value="Submit">
+        </form>
+
+        <div class="output-list">
+            {% for key, value in hashes_dict.items %}
+            <div class="output-box">
+                {{key}}: {{value}}</div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% endblock %}
