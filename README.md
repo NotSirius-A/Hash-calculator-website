@@ -3,3 +3,7 @@ Website written using django framework, that calculates hashes of a user submitt
 
 ## Notes
 TODO
+
+## Screenshots
+<img src="https://imgur.com/eQDuCJB.png" />
+<img src="https://imgur.com/8E7Kqji.png" />
