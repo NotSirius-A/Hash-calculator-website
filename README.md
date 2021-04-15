@@ -6,7 +6,7 @@ I do not know CSS well, because of that I've coded it in such way that the websi
 
 ## Notes
 - Strings to hash are passed through the "text" URL parameter, therefore the result can be easily stored or shared
-- Main functionality is enclosed within the hash_calculators django app, thus allowing to insert the hash calculator in other websites conveniently
+- Main functionality is enclosed within the hash_calculators django app, thus allowing to implement the hash calculator in other websites conveniently
 
 ## Screenshots
 <img src="https://imgur.com/eQDuCJB.png" />
