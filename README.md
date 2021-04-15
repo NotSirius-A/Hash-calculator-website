@@ -1,5 +1,5 @@
 # hash-calculator-website
-Website written using django framework, that calculates hashes of a user submitted string.
+Website written using django framework, that calculates hashes of a string submitted by the user.
 
 ## Notes
 TODO
